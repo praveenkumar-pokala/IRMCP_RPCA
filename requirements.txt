@@ -1,0 +1,11 @@
+numpy==1.19.5
+fbpca==1.0
+PyWavelets==1.1.1
+scipy==1.5.4
+matplotlib==3.3.4
+Pillow==8.2.0
+opencv-python==4.5.2.54
+PyMaxflow==1.2.13
+pytest-shutil
+glob2
+ffmpeg-python==0.2.0
